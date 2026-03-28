@@ -1,4 +1,4 @@
-<p align='center'>#PROJECT : B.L.U.</p>
+<p align='center'>PROJECT : B.L.U.</p>
 <p align='center'>Binary	Logical	Unit</p>
 
 
