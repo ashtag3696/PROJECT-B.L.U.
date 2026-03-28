@@ -3,7 +3,7 @@
 
 
 
-<p align='center'>Design and Simulation of a 4-Function, 2-Bit ALU (Arithmetic Logical Unit)</p>
+<p align='center'>[@Design and Simulation of a 4-Function, 2-Bit ALU (Arithmetic Logical Unit)](https://github.com/hneemann/Digital.git)</p>
 
 
 
