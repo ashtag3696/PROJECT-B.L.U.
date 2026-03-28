@@ -7,7 +7,7 @@
 
 
 
-Software used : [@Digital (Github : hneemann/Digital)]((https://github.com/hneemann/Digital.git))
+Software used : Digital (Github : hneemann/Digital)<br>(https://github.com/hneemann/Digital.git)
 
 
 Contributors:
