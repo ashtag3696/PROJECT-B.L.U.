@@ -12,7 +12,7 @@ Software used : Digital (Github : hneemann/Digital)
 
 Contributors:
 
-[@beeppviz](https://github.com/beppvis) &nbsp; [@ashtag](https://github.com/ashtag3696)
+[@beppvis](https://github.com/beppvis) &nbsp; [@ashtag](https://github.com/ashtag3696)
 <br>
 <br>
  
